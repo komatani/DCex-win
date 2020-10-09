@@ -1,0 +1,11 @@
+S       :  NS_B  S_0  NS_E
+S_0     :  S_1
+S_0     :  S_2
+S_1     :  NAME_P  PLEASE
+NAME_P  :  SECTION  NO  NAME  SAN
+NAME_P  :  SECTION  NO  NAME  SAN  WO
+NAME_P  :  NAME  SAN
+NAME_P  :  NAME  SAN WO
+S_2     :  NUM  PLEASE
+S_2     :  NAISEN  NUM  PLEASE
+NUM     :  DIGIT  DIGIT  DIGIT  DIGIT  BAN

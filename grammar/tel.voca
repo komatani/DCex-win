@@ -1,0 +1,48 @@
+% NAME
+斉藤    s a i t o:
+佐々木  s a s a k i
+鈴木	s u z u k i
+高橋	t a k a h a sh i
+田中	t a n a k a
+渡辺	w a t a n a b e
+伊藤	i t o:
+山本	y a m a m o t o
+中村	n a k a m u r a
+小林	k o b a y a sh i
+加藤	k a t o:
+駒谷	k o m a t a n i
+% SAN
+さん    s a N
+% DIGIT
+0	z e r o
+1	i ch i
+2	n i
+3	s a N
+4	sh i
+4	y o N
+5	g o
+6	r o k u
+7	sh i ch i
+7	n a n a
+8	h a ch i
+9	ky u:
+9	k u
+% NO
+の             n o
+% WO
+を             o
+% SECTION
+総務    s o: m u
+経理    k e: r i
+企画    k i k a k u
+% NAISEN
+内線    n a i s e N
+% PLEASE
+です    d e s u
+お願いします  o n e g a i sh i m a s u
+% BAN
+番      b a N
+% NS_B
+<s>            silB
+% NS_E
+</s>            silE

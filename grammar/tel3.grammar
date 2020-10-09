@@ -1,0 +1,12 @@
+S       :  NS_B WORDS NS_E
+WORDS   :  WORDS WORD
+WORDS   :  WORD
+WORD    :  NAME
+WORD    :  SAN
+WORD    :  DIGIT
+WORD    :  NO
+WORD    :  WO
+WORD    :  SECTION
+WORD    :  NAISEN
+WORD    :  PLEASE
+WORD    :  BAN

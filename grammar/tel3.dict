@@ -1,0 +1,36 @@
+0	[斉藤]	s a i t o:
+0	[佐々木]	s a s a k i
+0	[鈴木]	s u z u k i
+0	[高橋]	t a k a h a sh i
+0	[田中]	t a n a k a
+0	[渡辺]	w a t a n a b e
+0	[伊藤]	i t o:
+0	[山本]	y a m a m o t o
+0	[中村]	n a k a m u r a
+0	[小林]	k o b a y a sh i
+0	[加藤]	k a t o:
+1	[さん]	s a N
+2	[0]	z e r o
+2	[1]	i ch i
+2	[2]	n i
+2	[3]	s a N
+2	[4]	sh i
+2	[4]	y o N
+2	[5]	g o
+2	[6]	r o k u
+2	[7]	sh i ch i
+2	[7]	n a n a
+2	[8]	h a ch i
+2	[9]	ky u:
+2	[9]	k u
+3	[の]	n o
+4	[を]	o
+5	[総務]	s o: m u
+5	[経理]	k e: r i
+5	[企画]	k i k a k u
+6	[内線]	n a i s e N
+7	[です]	d e s u
+7	[お願いします]	o n e g a i sh i m a s u
+8	[番]	b a N
+9	[<s>]	silB
+10	[</s>]	silE
